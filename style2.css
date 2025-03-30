@@ -47,24 +47,9 @@ body {
 
 .title {
   position: absolute;
-  bottom: 20px;
+  bottom: 80px;
   left: 10;
   /* background-color: red; */
-}
-
-.hero h4 {
-  font-size: 20px;
-  font-weight: regular;
-  margin-bottom: -5px;
-  color: red;
-  margin-left: 5px;
-}
-
-.hero p {
-  font-style: italic;
-  font-size: 15px;
-  color: red;
-  margin-left: 5px;
 }
 
 .hero .nameblog {
@@ -72,19 +57,20 @@ body {
   font-size: 3.5rem;
   font-weight: 100;
   margin-left: 5px;
+  /* border: 1px solid white; */
 }
 
 .hero .descblog {
   font-size: 1rem;
   font-weight: 300;
   margin-top: -17px;
-  margin-bottom: -5px;
+  margin-bottom: -2px;
   margin-left: 5px;
 }
 
 .hero .title a {
   color: red;
-  font-size: 0.8rem;
+  font-size: 0.86rem;
   margin-left: 5px;
 }
 
